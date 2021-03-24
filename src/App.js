@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       <main>
         <div className="Logo">
-          LightningWeather
+          LightningWeathers
         </div>
           <div className="search-box">
             <input
