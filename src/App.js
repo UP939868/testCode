@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
-const api = {
-  apiKey: "21e0031de06d3587435fcd1eb132ac9b",
-  baseURL: "https://api.openweathermap.org/data/2.5/"
-}
+//const api = {
+ // apiKey: "21e0031de06d3587435fcd1eb132ac9b",
+ // baseURL: "https://api.openweathermap.org/data/2.5/"
+//}
 
 function App() {
 
